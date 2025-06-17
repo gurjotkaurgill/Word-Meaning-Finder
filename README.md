@@ -23,3 +23,6 @@ This app is a simple web application that allows users to look up definitions of
 - **Responsive Design:** Ensures the app works well on different screen sizes.
 
 ---
+
+![image](https://github.com/user-attachments/assets/6220deda-2e86-43c4-856a-7bdd0c6eed34)
+![image](https://github.com/user-attachments/assets/91d0bcbe-e1f5-4694-a256-6954d4372a14)
